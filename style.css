@@ -1,0 +1,62 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(237, 41, 145);
+  }
+  
+  header {
+    background-color: #590898;
+    color: #fff;
+    text-align: center;
+    padding: 30px;
+  }
+  
+  header h1 {
+    margin: 0;
+    text-shadow: 2px 2px 2px rgb(233, 132, 203);
+  }
+  
+  section {
+    padding: 20px;
+    color: rgb(83, 4, 109);
+  }
+  
+  /* About Section */
+  #about img {
+    border-radius: 50%;
+    border-style: dashed;
+    border-color: rgb(75, 10, 107);
+    width: 200px;
+    height: 300px;
+    display: block;
+    margin: 20px auto;
+  }
+  
+  /* Projects Section */
+  .project {
+    margin-bottom: 20px;
+  }
+  
+  .project img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #4f0ba3;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+
+  p{
+    color: rgb(237, 231, 231);
+    text-shadow: 2px 2px 2px rgb(93, 4, 93);
+  }
+  
