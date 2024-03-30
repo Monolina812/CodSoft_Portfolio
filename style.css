@@ -3,24 +3,31 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: rgb(237, 41, 145);
+    background-color: rgb(171, 233, 238);
   }
   
   header {
-    background-color: #590898;
+    background-color: #c496e6;
     color: #fff;
     text-align: center;
     padding: 30px;
   }
   
-  header h1 {
+  h1{
     margin: 0;
-    text-shadow: 2px 2px 2px rgb(233, 132, 203);
+    color:rgb(11, 3, 18);
+    text-shadow: 2px 2px 2px rgb(127, 5, 101);
+  }
+
+  h2{
+    margin: 0;
+    color: rgb(12, 67, 157);
+    text-shadow: 2px 2px 2px rgb(44, 237, 237);
   }
   
   section {
     padding: 20px;
-    color: rgb(83, 4, 109);
+    color: rgb(46, 8, 150);
   }
   
   /* About Section */
@@ -46,7 +53,7 @@ body {
   
   /* Footer */
   footer {
-    background-color: #4f0ba3;
+    background-color:#c496e6;
     color: #fff;
     text-align: center;
     padding: 10px;
@@ -56,7 +63,11 @@ body {
   }
 
   p{
-    color: rgb(237, 231, 231);
-    text-shadow: 2px 2px 2px rgb(93, 4, 93);
+    color: rgb(19, 15, 15);
+    text-shadow: 1px 1px 1px rgb(33, 125, 237);
   }
+  table, th, td {
+    border:1px solid black;
+  }
+
   
